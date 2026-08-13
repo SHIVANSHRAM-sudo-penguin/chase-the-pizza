@@ -1,5 +1,6 @@
 {
     "name": "CHASE THE PIZZA",
+    "version": "0.0.1",
     "description": "when you touch the PIZZA(yummy) you get POINTSS!!!",
     "dependencies": {
         "device": "*",
